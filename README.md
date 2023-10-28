@@ -27,4 +27,4 @@ VoiceToGame is a cutting-edge project that allows you to control and interact wi
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/VoiceToGame.git
+   git clone https://github.com/SellByte/VoiceToGame.git
