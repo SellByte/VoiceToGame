@@ -7,8 +7,7 @@ VoiceToGame is a cutting-edge project that allows you to control and interact wi
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [License](https://github.com/SellByte/VoiceToGame/blob/main/LICENSE.md)
 
 ## Features
 
@@ -26,3 +25,17 @@ VoiceToGame is a cutting-edge project that allows you to control and interact wi
 
    ```shell
    git clone https://github.com/SellByte/VoiceToGame.git
+   ```
+  2.how to run it
+  ```shell
+  python3 main.py
+```
+## Usage
+
+- **Play Game**:
+
+- **vocal shortcut**:
+
+
+
+
