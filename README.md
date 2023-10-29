@@ -1,7 +1,5 @@
 # VoiceToGame
-VoiceToGame © 2023 by SellByte is licensed under CC BY-NC-ND 4.0 
-
-# VoiceToGame
+VoiceToGame © 2023 by SellByte is licensed under CC BY-NC-ND 4.0
 
 VoiceToGame is a cutting-edge project that allows you to control and interact with your favorite games using your voice. This technology leverages the power of speech recognition to provide an immersive gaming experience.
 
